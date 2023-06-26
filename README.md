@@ -1,9 +1,5 @@
 # BNBS
 
-## Hướng dẫn cài đặt môi trường Python và Node.js
-
-Hướng dẫn này giúp bạn cài đặt môi trường Python và Node.js trên Windows để chạy dự án.
-
 ## Cài đặt môi trường
 
 1. Cài đặt Git trên máy tính của bạn. Để biết chi tiết, xem [hướng dẫn cài đặt Git](#cài-đặt-git).
@@ -19,11 +15,10 @@ Hướng dẫn này giúp bạn cài đặt môi trường Python và Node.js tr
    ```bash
    git --version
    
-Cài đặt các thành phần bổ sung
-Mở Command Prompt hoặc Terminal.
+## Cài đặt các module cho node.js
+1. Vào thư mục chương trình ấn chuột phải chọn git bash
 
-Di chuyển vào thư mục dự án của bạn.
+2. Chạy lệnh sau để cài đặt các gói phụ thuộc:
 
-Chạy lệnh sau để cài đặt các gói phụ thuộc:
    ```bash
    npm install axios web3 dotenv
