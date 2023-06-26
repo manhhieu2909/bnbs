@@ -1,4 +1,4 @@
-#BNBS
+# BNBS
 
 ## Hướng dẫn cài đặt môi trường Python và Node.js
 
