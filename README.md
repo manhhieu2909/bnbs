@@ -25,7 +25,7 @@
 ## Tải dữ liệu từ dune
 1. Tạo tài khoản dune
 2. Tải file csv từ các querry trên dune cho các hệ như bnbs, erc-20, nrc-20 cái này tìm trên twitter
-   Querry của bnbs: https://dune.com/queries/2650449
+Querry của bnbs: https://dune.com/queries/2650449
 3. Sau khi tải xong lưu file với tên data.csv
 ## Lọc dữ liệu
 ### Lọc dữ liệu theo tick
