@@ -1,4 +1,4 @@
-# BNBS
+# BNBS, ERC-20, NRC-20...
 
 ## Cài đặt môi trường
 
